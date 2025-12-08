@@ -11,6 +11,7 @@
 
 
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2l2aDI5ZzdkNzlwZ3Zka2dlbDhwMm1xeW9rb2FxNHdkazN4NTNuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/97joea0t2E1RU6fmE5/giphy.gif" width="350" style="margin-left: 20px; margin-bottom: 20px;" />
+<br>
 <p>
 In addition, I enjoy exploring new technologies, contributing to open source projects, and collaborating with fellow developers.  
 I’m always excited to improve my skills and learn something new every day.
