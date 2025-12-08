@@ -18,9 +18,8 @@ I’m always excited to improve my skills and learn something new every day.
 </p>
 
 #### LANGUAGES AND TECHNOLOGIES
-<p align="center">
 <img width="600px" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,git,figma,vscode,vercel,postgres,prisma&perline=10" />
-</p>
+
 
 <br><br>
 ## GitHub Trophies
