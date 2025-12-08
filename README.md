@@ -7,7 +7,7 @@
 
 
 <img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJjaHBhMXZyMW14aWpzb2s0Zm5ra2dlbWh3NTQzemVjbnV6b2dubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/imbTfdz5TWSsw/giphy.gif" width="300" style="margin-right: 20px; margin-bottom: 20px;" />
-<br>
+<br><br>
 
 <h2>Hi, I'm Charlotte Cameron Bustamante Leveau!</h2> <p> I am a Full Stack Developer passionate about building complete, efficient, and scalable web solutions. I have professional experience combining front-end (with React.js, Vue.js, and Vanilla JS) and **back-end** (with Node.js, Express, Flask, and C#/.NET Core) to deliver products from design to final implementation. </p> <p> My focus is on applying UX/UI design** principles to enhance usability and create exceptional user experiences. </p>
 
@@ -20,7 +20,7 @@ I’m always excited to improve my skills and learn something new every day.
 </p>
 
 
-<br>
+<br><br>
 
 #### LANGUAGES AND TECHNOLOGIES
 
