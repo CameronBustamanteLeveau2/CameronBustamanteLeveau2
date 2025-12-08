@@ -17,6 +17,7 @@ In addition, I enjoy exploring new technologies, contributing to open source pro
 I’m always excited to improve my skills and learn something new every day.
 </p>
 <br><br>
+
 #### LANGUAGES AND TECHNOLOGIES
 <p align="center">
 <img width="600px" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,git,figma,vscode,vercel,postgres,prisma&perline=10" />
@@ -125,7 +126,7 @@ I’m always excited to improve my skills and learn something new every day.
 <br>
 <br /><br /><br /><br /><br /> <!-- ajusta la cantidad de <br /> para bajar más -->
 
-🎁 **Wishing you a wonderful holiday season and a happy New Year!**  
+### 🎁 **Wishing you a wonderful holiday season and a happy New Year!**  
 — _Charlotte_
 
 Credit: [CameronBustamanteLeveau2](https://github.com/CameronBustamanteLeveau2)
