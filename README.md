@@ -16,14 +16,14 @@
 In addition, I enjoy exploring new technologies, contributing to open source projects, and collaborating with fellow developers.  
 I’m always excited to improve my skills and learn something new every day.
 </p>
-<br><br>
+
 
 #### LANGUAGES AND TECHNOLOGIES
 <p align="center">
 <img width="600px" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,git,figma,vscode,vercel,postgres,prisma&perline=10" />
 </p>
 
-
+<br><br>
 ## GitHub Trophies
 
 <p align="center">
