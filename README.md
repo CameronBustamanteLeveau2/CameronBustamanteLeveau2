@@ -20,7 +20,7 @@ I’m always excited to improve my skills and learn something new every day.
 </p>
 
 
-
+<br>
 
 #### LANGUAGES AND TECHNOLOGIES
 
