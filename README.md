@@ -116,6 +116,8 @@ I’m always excited to improve my skills and learn something new every day.
 ---
 
 ## 🎄✨ Merry Christmas & Happy Holidays! ✨🎄
+  <img  src="img/final2.png"/>
+
   <img align="right" src="img/character.png"/>
 <br>
 <br>
