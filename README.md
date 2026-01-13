@@ -1,6 +1,3 @@
-<p align="center">
-<img src="img/main2.png"/>
-<h1 align="center">Welcome to <a href="https://github.com/CameronBustamanteLeveau2">Charllotte </a>'s Profile 🤭</h1>
 
 <img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJjaHBhMXZyMW14aWpzb2s0Zm5ra2dlbWh3NTQzemVjbnV6b2dubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/imbTfdz5TWSsw/giphy.gif" width="300" style="margin-right: 20px; margin-bottom: 20px;" />
 <br><br>
